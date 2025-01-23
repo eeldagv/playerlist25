@@ -1,0 +1,2 @@
+position: pitcher
+back number: 13

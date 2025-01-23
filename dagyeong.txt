@@ -1,0 +1,2 @@
+position: hitter
+back number: 51

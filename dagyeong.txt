@@ -1,2 +1,2 @@
-position: hitter
+position: hitter (outfielder)
 back number: 51

@@ -1,2 +1,3 @@
 position: pitcher
 back number: 13
+ERA: 3.21
